@@ -1,2 +1,2 @@
-# onePageWebSit
+# OnePageWebSit
 One page Web Sit 
